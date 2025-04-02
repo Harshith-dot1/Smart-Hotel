@@ -1,1 +1,1 @@
-# Smart-Hotel
+•	This full-stack Java-based web application streamlines hotel operations by automating room reservations, guest check-ins/check-outs, room availability tracking, customer feedback management, and payment processing. And it also improves the Efficient Hotel Operations and enhance guest operations and provide better decision-making.
